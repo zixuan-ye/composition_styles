@@ -8,7 +8,7 @@ This repository includes the official implementation of _triplet-style compositi
 
 <a name="yYOux"></a>
 ## 📑More Information
-[paper][[video](https://youtu.be/wmvP3YcGcSQ)]
+[[paper](https://arxiv.org/abs/2212.13517)][[video](https://youtu.be/wmvP3YcGcSQ)]
 <a name="Install"></a>
 ## 
 <a name="Usage"></a>
