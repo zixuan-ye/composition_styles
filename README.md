@@ -41,7 +41,7 @@ for epoch in range(start_epoch, cfg.TRAIN.num_epochs):
 ## Citation
 If you find this work or code useful for your research, please cite:
 ```
-@inproceedings{li2020natural,
+@inproceedings{ye2023infusing,
   title={Infusing Definiteness into Randomness: Rethinking Composition Styles for Deep Image Matting},
   author={Ye, Zixuan and Dai, Yutong and Hong, Chaoyi and Cao, Zhiguo and Lu, Hao},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
