@@ -38,6 +38,20 @@ for epoch in range(start_epoch, cfg.TRAIN.num_epochs):
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/34812589/1672210878568-dd9da735-da58-46f2-b463-14cfc6410712.png#averageHue=%23f0efed&clientId=u0835b2f4-a47b-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=130&id=u70c158eb&margin=%5Bobject%20Object%5D&name=image.png&originHeight=346&originWidth=1927&originalType=binary&ratio=1&rotation=0&showTitle=false&size=168876&status=done&style=none&taskId=ud5f0b385-f0b2-4a2e-9f2d-f38b9f7afae&title=&width=722)
 
 ---
+## Citation
+If you find this work or code useful for your research, please cite:
+```
+@inproceedings{li2020natural,
+  title={Infusing Definiteness into Randomness: Rethinking Composition Styles for Deep Image Matting},
+  author={Ye, Zixuan and Dai, Yutong and Hong, Chaoyi and Cao, Zhiguo and Lu, Hao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2023}
+}
+```
+
+## Permission
+This code is for academic purposes only. Contact: Zixuan Ye (yezixuan@hust.edu.cn)
+
 
 <a name="cARQw"></a>
 ## Reference
